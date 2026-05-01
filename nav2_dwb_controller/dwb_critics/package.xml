@@ -9,7 +9,7 @@
   <buildtool_depend>ament_cmake</buildtool_depend>
   <build_depend>nav2_common</build_depend>
 
-  <depend>angles</depend>
+  <build_depend>angles</build_depend>
   <depend>costmap_queue</depend>
   <depend>dwb_core</depend>
   <depend>dwb_msgs</depend>
