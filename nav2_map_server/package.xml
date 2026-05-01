@@ -12,6 +12,7 @@
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
+  <build_depend>graphicsmagick</build_depend>
   <build_depend>nav2_common</build_depend>
 
   <depend>rclcpp_lifecycle</depend>
@@ -24,7 +25,6 @@
   <depend>tf2</depend>
   <depend>nav2_msgs</depend>
   <depend>nav2_util</depend>
-  <depend>graphicsmagick</depend>
   <depend>lifecycle_msgs</depend>
 
   <test_depend>ament_lint_common</test_depend>
